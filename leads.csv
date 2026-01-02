@@ -1,0 +1,501 @@
+lead_id,lead_name,industry,source,created_date,status,lead_score
+L0001,HDFC Analytics 1,Manufacturing,Email,2024-03-29,Lost,87
+L0002,Udaan Pvt Ltd 2,Manufacturing,Cold Call,2024-11-19,Qualified,70
+L0003,Udaan Pvt Ltd 3,Healthcare,LinkedIn Ads,2024-12-24,Converted,79
+L0004,Infosys Ltd 4,Retail,Referral,2024-10-08,Proposal,27
+L0005,Reliance Digital 5,Manufacturing,Cold Call,2024-12-04,Converted,87
+L0006,Reliance Digital 6,IT,Email,2024-05-05,New,90
+L0007,HDFC Analytics 7,Retail,Social Media,2024-03-28,Lost,29
+L0008,Zomato Pvt Ltd 8,Retail,Cold Call,2024-08-28,Lost,74
+L0009,Flipkart India 9,Retail,Cold Call,2024-01-31,Converted,21
+L0010,Udaan Pvt Ltd 10,Manufacturing,LinkedIn Ads,2024-05-15,Lost,98
+L0011,Zomato Pvt Ltd 11,IT,Referral,2024-02-13,Qualified,65
+L0012,Tata Solutions 12,Retail,Google Ads,2024-03-11,Proposal,54
+L0013,Reliance Digital 13,IT,Email,2024-08-30,Qualified,52
+L0014,Persistent Systems 14,Finance,Email,2024-07-09,Qualified,32
+L0015,Tata Solutions 15,Manufacturing,Email,2024-07-19,Qualified,39
+L0016,Udaan Pvt Ltd 16,Finance,LinkedIn Ads,2024-08-20,New,45
+L0017,HCL Technologies 17,Retail,Google Ads,2024-06-25,Lost,62
+L0018,Infosys Ltd 18,Finance,LinkedIn Ads,2024-08-18,Qualified,87
+L0019,Zomato Pvt Ltd 19,Manufacturing,LinkedIn Ads,2024-01-28,Converted,41
+L0020,Axis Solutions 20,Healthcare,Events,2024-12-19,Lost,88
+L0021,Byju's 21,Healthcare,Google Ads,2024-12-30,Proposal,73
+L0022,Mindtree 22,IT,Email,2024-10-18,Qualified,94
+L0023,Flipkart India 23,Retail,Cold Call,2024-03-02,Qualified,92
+L0024,Zomato Pvt Ltd 24,Finance,Google Ads,2024-07-16,Converted,81
+L0025,Reliance Digital 25,IT,Referral,2024-12-08,Converted,30
+L0026,Ola Electric 26,Retail,Website,2024-04-18,New,84
+L0027,Tata Solutions 27,Finance,Google Ads,2024-12-27,New,96
+L0028,Ola Electric 28,Finance,Website,2024-09-06,Proposal,59
+L0029,HDFC Analytics 29,Manufacturing,Email,2024-01-27,Converted,80
+L0030,HDFC Analytics 30,IT,Referral,2024-11-11,New,94
+L0031,Reliance Digital 31,Healthcare,Google Ads,2024-07-16,Lost,65
+L0032,HCL Technologies 32,Manufacturing,Social Media,2024-04-30,New,86
+L0033,L&T Infotech 33,Healthcare,Google Ads,2024-01-08,Qualified,70
+L0034,Persistent Systems 34,Retail,Website,2024-10-13,Qualified,88
+L0035,Infosys Ltd 35,Manufacturing,Events,2024-01-09,Lost,63
+L0036,Infosys Ltd 36,Finance,Cold Call,2024-04-20,Proposal,71
+L0037,Infosys Ltd 37,Education,Website,2024-07-09,New,97
+L0038,ICICI Tech 38,Finance,Website,2024-05-22,Qualified,23
+L0039,Byju's 39,Healthcare,Cold Call,2024-07-04,Proposal,89
+L0040,Tata Solutions 40,Retail,LinkedIn Ads,2024-04-09,New,55
+L0041,L&T Infotech 41,Finance,Social Media,2024-07-07,New,73
+L0042,Reliance Digital 42,Healthcare,Referral,2024-02-08,Converted,43
+L0043,Persistent Systems 43,IT,Social Media,2024-10-05,Qualified,27
+L0044,Udaan Pvt Ltd 44,IT,Social Media,2024-08-02,Proposal,32
+L0045,Zomato Pvt Ltd 45,Education,Events,2024-01-26,Qualified,78
+L0046,Mindtree 46,IT,Website,2024-04-15,Proposal,37
+L0047,Airtel Digital 47,Retail,Website,2024-09-30,Converted,89
+L0048,Byju's 48,Education,Cold Call,2024-07-08,Proposal,97
+L0049,Mindtree 49,Finance,Cold Call,2024-12-15,Proposal,46
+L0050,Airtel Digital 50,Finance,LinkedIn Ads,2024-12-27,Proposal,85
+L0051,Flipkart India 51,Healthcare,Referral,2024-10-25,Qualified,89
+L0052,HCL Technologies 52,Retail,LinkedIn Ads,2024-10-18,New,31
+L0053,ICICI Tech 53,Finance,Events,2024-03-27,Qualified,98
+L0054,Tech Mahindra 54,Education,Events,2024-12-03,New,82
+L0055,ICICI Tech 55,Finance,Cold Call,2024-10-14,Lost,54
+L0056,ICICI Tech 56,IT,Referral,2024-07-04,Proposal,67
+L0057,Infosys Ltd 57,IT,Referral,2024-09-24,Converted,97
+L0058,Axis Solutions 58,Manufacturing,Referral,2024-01-28,Converted,51
+L0059,Paytm Services 59,IT,Google Ads,2024-11-17,Converted,87
+L0060,Wipro Systems 60,Retail,Google Ads,2024-02-17,Qualified,56
+L0061,Udaan Pvt Ltd 61,IT,Email,2024-03-14,Proposal,20
+L0062,Airtel Digital 62,IT,Cold Call,2024-05-10,Proposal,75
+L0063,Axis Solutions 63,IT,Social Media,2024-11-27,Qualified,61
+L0064,Reliance Digital 64,Healthcare,LinkedIn Ads,2024-07-25,Qualified,98
+L0065,Flipkart India 65,IT,Social Media,2024-06-04,Proposal,45
+L0066,Tata Solutions 66,Education,Google Ads,2024-03-13,Lost,47
+L0067,HDFC Analytics 67,Manufacturing,Referral,2024-02-24,Converted,96
+L0068,Zomato Pvt Ltd 68,Healthcare,Social Media,2024-03-27,New,63
+L0069,Infosys Ltd 69,Healthcare,Referral,2024-05-05,Lost,32
+L0070,Reliance Digital 70,Manufacturing,Social Media,2024-05-12,Lost,28
+L0071,Tech Mahindra 71,Manufacturing,Email,2024-10-05,Lost,71
+L0072,Udaan Pvt Ltd 72,Healthcare,Google Ads,2024-08-06,Proposal,37
+L0073,Zomato Pvt Ltd 73,Manufacturing,LinkedIn Ads,2024-07-04,Proposal,99
+L0074,L&T Infotech 74,Finance,Email,2024-12-04,New,52
+L0075,ICICI Tech 75,Healthcare,Website,2024-07-11,Proposal,49
+L0076,Reliance Digital 76,Manufacturing,Referral,2024-12-17,Qualified,78
+L0077,Tata Solutions 77,Education,Referral,2024-12-15,Proposal,87
+L0078,HCL Technologies 78,Finance,Cold Call,2024-01-04,New,85
+L0079,Paytm Services 79,Healthcare,Events,2024-04-15,Qualified,27
+L0080,Infosys Ltd 80,Manufacturing,Google Ads,2024-10-26,Converted,21
+L0081,HCL Technologies 81,Education,Website,2024-04-11,New,48
+L0082,Infosys Ltd 82,Retail,LinkedIn Ads,2024-01-04,New,75
+L0083,Mindtree 83,IT,Email,2024-12-01,Converted,66
+L0084,Swiggy Instamart 84,Finance,Referral,2024-02-23,New,38
+L0085,Byju's 85,IT,Email,2024-03-12,Proposal,46
+L0086,Paytm Services 86,Finance,Cold Call,2024-07-15,Proposal,95
+L0087,Udaan Pvt Ltd 87,IT,Google Ads,2024-08-19,Lost,73
+L0088,Byju's 88,Healthcare,Events,2024-07-05,Qualified,90
+L0089,ICICI Tech 89,Finance,Cold Call,2024-01-16,New,61
+L0090,Tata Solutions 90,IT,Website,2024-04-09,Proposal,47
+L0091,L&T Infotech 91,Retail,Email,2024-10-28,Proposal,46
+L0092,Swiggy Instamart 92,IT,Website,2024-08-03,Converted,38
+L0093,ICICI Tech 93,Education,Website,2024-05-21,Lost,100
+L0094,Axis Solutions 94,Retail,Referral,2024-12-20,Lost,84
+L0095,HDFC Analytics 95,Retail,Referral,2024-05-30,Converted,23
+L0096,ICICI Tech 96,Manufacturing,Website,2024-11-05,Qualified,49
+L0097,HCL Technologies 97,Finance,Referral,2024-02-13,Proposal,40
+L0098,Byju's 98,Manufacturing,Referral,2024-06-13,Proposal,44
+L0099,Infosys Ltd 99,IT,LinkedIn Ads,2024-05-06,Qualified,78
+L0100,Swiggy Instamart 100,Education,Google Ads,2024-08-08,Lost,85
+L0101,Paytm Services 101,Finance,Website,2024-04-06,Converted,95
+L0102,Byju's 102,Education,Google Ads,2024-05-15,Converted,81
+L0103,L&T Infotech 103,Healthcare,Events,2024-02-02,Converted,96
+L0104,Zomato Pvt Ltd 104,Education,Google Ads,2024-08-29,Proposal,28
+L0105,Infosys Ltd 105,Education,Google Ads,2024-11-30,Qualified,72
+L0106,Swiggy Instamart 106,Finance,Social Media,2024-08-28,Qualified,35
+L0107,Byju's 107,Finance,Google Ads,2024-01-27,Lost,32
+L0108,Persistent Systems 108,Manufacturing,Social Media,2024-08-09,Converted,86
+L0109,Airtel Digital 109,Healthcare,Referral,2024-04-18,Lost,56
+L0110,Tata Solutions 110,Healthcare,Events,2024-06-25,Qualified,93
+L0111,Zomato Pvt Ltd 111,IT,Social Media,2024-03-14,Proposal,51
+L0112,Wipro Systems 112,Healthcare,Website,2024-03-20,Qualified,96
+L0113,Tech Mahindra 113,Healthcare,Cold Call,2024-10-04,Lost,100
+L0114,Zomato Pvt Ltd 114,Retail,Social Media,2024-02-05,Lost,57
+L0115,Reliance Digital 115,Retail,Referral,2024-08-28,New,87
+L0116,Paytm Services 116,Healthcare,Social Media,2024-05-25,Lost,78
+L0117,HDFC Analytics 117,Finance,LinkedIn Ads,2024-05-07,Converted,67
+L0118,Byju's 118,Finance,LinkedIn Ads,2024-03-18,Proposal,61
+L0119,Airtel Digital 119,Retail,LinkedIn Ads,2024-07-31,Lost,29
+L0120,Reliance Digital 120,Retail,Events,2024-10-14,New,22
+L0121,HCL Technologies 121,IT,Google Ads,2024-07-26,Qualified,32
+L0122,Zomato Pvt Ltd 122,Manufacturing,Email,2024-08-19,Qualified,68
+L0123,Udaan Pvt Ltd 123,Healthcare,Events,2024-04-08,Lost,94
+L0124,ICICI Tech 124,Finance,Social Media,2024-08-03,Qualified,45
+L0125,Axis Solutions 125,IT,Events,2024-06-29,New,24
+L0126,L&T Infotech 126,IT,LinkedIn Ads,2024-04-22,Converted,24
+L0127,Paytm Services 127,Finance,Website,2024-07-24,Proposal,98
+L0128,Tech Mahindra 128,Retail,Cold Call,2024-05-07,Proposal,51
+L0129,Mindtree 129,Manufacturing,Website,2024-11-11,New,49
+L0130,Reliance Digital 130,Finance,Email,2024-04-15,Converted,26
+L0131,Infosys Ltd 131,Finance,Referral,2024-08-06,Converted,42
+L0132,Udaan Pvt Ltd 132,Retail,Cold Call,2024-07-24,Qualified,70
+L0133,Persistent Systems 133,Education,Social Media,2024-05-17,New,62
+L0134,Zomato Pvt Ltd 134,Healthcare,Email,2024-11-09,New,66
+L0135,ICICI Tech 135,Finance,Cold Call,2024-07-06,Qualified,96
+L0136,Udaan Pvt Ltd 136,IT,Google Ads,2024-06-10,Converted,44
+L0137,Axis Solutions 137,Manufacturing,Email,2024-12-29,Converted,62
+L0138,Mindtree 138,IT,LinkedIn Ads,2024-09-19,New,98
+L0139,Airtel Digital 139,Healthcare,Events,2024-12-18,Lost,41
+L0140,Wipro Systems 140,Education,Referral,2024-11-30,Qualified,54
+L0141,Airtel Digital 141,Manufacturing,Social Media,2024-05-14,Converted,63
+L0142,Infosys Ltd 142,Manufacturing,Referral,2024-11-15,Lost,51
+L0143,Persistent Systems 143,Retail,Cold Call,2024-11-01,Converted,31
+L0144,Udaan Pvt Ltd 144,IT,Email,2024-06-13,Lost,93
+L0145,Airtel Digital 145,Healthcare,Website,2024-09-16,Qualified,76
+L0146,Swiggy Instamart 146,Retail,Referral,2024-12-17,Proposal,29
+L0147,Wipro Systems 147,IT,Social Media,2024-08-29,Qualified,70
+L0148,HCL Technologies 148,IT,Website,2024-07-14,Proposal,42
+L0149,Udaan Pvt Ltd 149,Retail,Email,2024-06-29,Proposal,27
+L0150,Wipro Systems 150,Finance,Social Media,2024-01-26,Proposal,40
+L0151,Paytm Services 151,Finance,Email,2024-09-06,New,24
+L0152,Paytm Services 152,Finance,Website,2024-01-06,Converted,81
+L0153,Mindtree 153,Education,Email,2024-06-27,Qualified,58
+L0154,Swiggy Instamart 154,Finance,Google Ads,2024-07-08,New,43
+L0155,Wipro Systems 155,Manufacturing,Email,2024-05-15,Lost,77
+L0156,Udaan Pvt Ltd 156,Manufacturing,Google Ads,2024-01-26,Qualified,78
+L0157,Infosys Ltd 157,Finance,LinkedIn Ads,2024-10-08,Lost,87
+L0158,Ola Electric 158,Education,Events,2024-02-02,Lost,53
+L0159,Axis Solutions 159,Retail,Website,2024-08-24,New,40
+L0160,Zomato Pvt Ltd 160,IT,Referral,2024-01-16,Qualified,63
+L0161,Airtel Digital 161,Retail,Website,2024-05-07,New,50
+L0162,Byju's 162,Retail,LinkedIn Ads,2024-01-11,Converted,34
+L0163,Axis Solutions 163,Retail,LinkedIn Ads,2024-05-30,Converted,52
+L0164,Paytm Services 164,Manufacturing,Cold Call,2024-02-07,Proposal,39
+L0165,L&T Infotech 165,Education,Social Media,2024-11-25,Converted,92
+L0166,L&T Infotech 166,Manufacturing,Referral,2024-09-09,Converted,64
+L0167,Paytm Services 167,Finance,Email,2024-04-14,Qualified,51
+L0168,Flipkart India 168,Healthcare,Email,2024-01-23,Qualified,27
+L0169,ICICI Tech 169,Finance,Cold Call,2024-07-17,Converted,96
+L0170,Reliance Digital 170,Education,Google Ads,2024-11-25,Converted,68
+L0171,Udaan Pvt Ltd 171,Finance,Social Media,2024-12-22,Converted,20
+L0172,Swiggy Instamart 172,Education,LinkedIn Ads,2024-09-16,Qualified,39
+L0173,Tata Solutions 173,Retail,Email,2024-06-27,New,27
+L0174,Ola Electric 174,Education,Website,2024-02-29,Lost,78
+L0175,Infosys Ltd 175,Education,Email,2024-10-07,Proposal,58
+L0176,Zomato Pvt Ltd 176,Manufacturing,Social Media,2024-11-09,Proposal,27
+L0177,Reliance Digital 177,Healthcare,Social Media,2024-05-29,Proposal,92
+L0178,L&T Infotech 178,Manufacturing,Website,2024-05-04,Lost,73
+L0179,Airtel Digital 179,Retail,Google Ads,2024-06-28,New,27
+L0180,Tata Solutions 180,Education,Email,2024-04-29,Proposal,85
+L0181,Airtel Digital 181,Finance,Google Ads,2024-02-24,Proposal,36
+L0182,ICICI Tech 182,Education,Website,2024-09-04,Qualified,86
+L0183,Wipro Systems 183,Education,Events,2024-02-14,Proposal,31
+L0184,Udaan Pvt Ltd 184,Retail,Google Ads,2024-02-20,Converted,57
+L0185,Ola Electric 185,Retail,Website,2024-08-29,Qualified,40
+L0186,Infosys Ltd 186,Manufacturing,Referral,2024-08-26,New,82
+L0187,Persistent Systems 187,Retail,Cold Call,2024-03-13,Lost,48
+L0188,Paytm Services 188,Manufacturing,Social Media,2024-11-04,New,98
+L0189,Tech Mahindra 189,Manufacturing,Cold Call,2024-03-01,Lost,71
+L0190,Mindtree 190,Education,Referral,2024-06-06,Lost,71
+L0191,ICICI Tech 191,Healthcare,Social Media,2024-12-04,New,93
+L0192,Swiggy Instamart 192,Retail,Cold Call,2024-09-25,Converted,99
+L0193,Zomato Pvt Ltd 193,Healthcare,Google Ads,2024-05-21,Lost,44
+L0194,Udaan Pvt Ltd 194,Manufacturing,Events,2024-10-09,Qualified,56
+L0195,L&T Infotech 195,Healthcare,Events,2024-08-05,Proposal,29
+L0196,Flipkart India 196,Finance,Referral,2024-08-25,Qualified,59
+L0197,Reliance Digital 197,Education,Events,2024-04-25,New,28
+L0198,Airtel Digital 198,Healthcare,Social Media,2024-11-06,Converted,63
+L0199,Byju's 199,IT,LinkedIn Ads,2024-09-21,Lost,27
+L0200,Infosys Ltd 200,Finance,Email,2024-12-21,Proposal,31
+L0201,Infosys Ltd 201,Finance,Events,2024-01-17,Converted,41
+L0202,Tata Solutions 202,IT,Cold Call,2024-06-29,Qualified,62
+L0203,Axis Solutions 203,Manufacturing,Cold Call,2024-09-19,Proposal,85
+L0204,Udaan Pvt Ltd 204,Education,Google Ads,2024-03-14,Converted,76
+L0205,Byju's 205,Education,Social Media,2024-11-08,New,43
+L0206,Mindtree 206,Education,Website,2024-07-25,New,100
+L0207,Wipro Systems 207,Manufacturing,Website,2024-02-29,Lost,21
+L0208,Airtel Digital 208,Healthcare,LinkedIn Ads,2024-09-26,Proposal,73
+L0209,ICICI Tech 209,Healthcare,Social Media,2024-06-05,New,46
+L0210,Persistent Systems 210,Retail,Email,2024-06-30,Proposal,58
+L0211,Flipkart India 211,IT,Social Media,2024-03-26,Lost,30
+L0212,Zomato Pvt Ltd 212,Healthcare,Google Ads,2024-10-16,Lost,83
+L0213,Paytm Services 213,Finance,LinkedIn Ads,2024-09-28,Converted,96
+L0214,Tata Solutions 214,Finance,LinkedIn Ads,2024-07-02,Qualified,71
+L0215,Paytm Services 215,Education,Google Ads,2024-06-10,Qualified,63
+L0216,HDFC Analytics 216,Finance,Website,2024-07-20,Lost,30
+L0217,Byju's 217,Retail,Cold Call,2024-05-19,Converted,36
+L0218,L&T Infotech 218,Retail,Website,2024-11-09,Proposal,94
+L0219,Ola Electric 219,Finance,Cold Call,2024-04-17,New,98
+L0220,Infosys Ltd 220,Education,Google Ads,2024-11-01,New,40
+L0221,Swiggy Instamart 221,Manufacturing,Email,2024-04-24,Proposal,87
+L0222,Wipro Systems 222,Healthcare,Social Media,2024-03-28,Qualified,35
+L0223,Byju's 223,Healthcare,Events,2024-07-20,Converted,46
+L0224,Udaan Pvt Ltd 224,Healthcare,Social Media,2024-05-28,New,70
+L0225,Infosys Ltd 225,Education,Events,2024-08-21,Converted,45
+L0226,Tech Mahindra 226,IT,Referral,2024-04-22,Lost,91
+L0227,HCL Technologies 227,IT,Email,2024-06-12,Converted,28
+L0228,Udaan Pvt Ltd 228,IT,Cold Call,2024-02-20,Lost,74
+L0229,Persistent Systems 229,Education,Social Media,2024-12-11,Qualified,78
+L0230,L&T Infotech 230,IT,LinkedIn Ads,2024-08-19,Lost,93
+L0231,Tata Solutions 231,Finance,Website,2024-03-14,Lost,36
+L0232,Tech Mahindra 232,Finance,Email,2024-02-29,Proposal,98
+L0233,Udaan Pvt Ltd 233,Manufacturing,LinkedIn Ads,2024-12-02,Proposal,69
+L0234,Airtel Digital 234,Healthcare,Google Ads,2024-02-25,Proposal,35
+L0235,Mindtree 235,IT,Email,2024-04-07,New,81
+L0236,Udaan Pvt Ltd 236,Manufacturing,Website,2024-11-14,Qualified,29
+L0237,HDFC Analytics 237,Finance,Social Media,2024-11-24,Lost,48
+L0238,Byju's 238,Finance,Events,2024-06-13,Proposal,51
+L0239,Wipro Systems 239,Retail,Email,2024-07-24,New,67
+L0240,Swiggy Instamart 240,Healthcare,Website,2024-08-16,Qualified,80
+L0241,Axis Solutions 241,Education,Social Media,2024-05-06,New,26
+L0242,Udaan Pvt Ltd 242,Finance,Email,2024-07-07,Qualified,75
+L0243,Airtel Digital 243,Retail,Events,2024-01-07,Proposal,98
+L0244,Paytm Services 244,Finance,Social Media,2024-04-02,Converted,31
+L0245,Swiggy Instamart 245,Manufacturing,Website,2024-01-22,New,100
+L0246,Flipkart India 246,Retail,Social Media,2024-09-25,Qualified,39
+L0247,Byju's 247,Manufacturing,Email,2024-08-30,Proposal,55
+L0248,L&T Infotech 248,Manufacturing,Events,2024-12-01,Lost,90
+L0249,Flipkart India 249,Education,Email,2024-08-24,New,75
+L0250,HCL Technologies 250,Manufacturing,Website,2024-03-31,New,78
+L0251,Swiggy Instamart 251,IT,LinkedIn Ads,2024-09-15,Proposal,66
+L0252,L&T Infotech 252,Finance,LinkedIn Ads,2024-06-27,New,48
+L0253,Infosys Ltd 253,Retail,Cold Call,2024-05-31,New,71
+L0254,Tech Mahindra 254,Education,Social Media,2024-10-05,Qualified,63
+L0255,ICICI Tech 255,Healthcare,Events,2024-05-20,Qualified,70
+L0256,Infosys Ltd 256,IT,Referral,2024-07-25,Qualified,66
+L0257,ICICI Tech 257,Manufacturing,Email,2024-12-29,Converted,41
+L0258,HCL Technologies 258,Finance,Cold Call,2024-06-22,Qualified,78
+L0259,Mindtree 259,Retail,Referral,2024-03-25,Proposal,85
+L0260,Zomato Pvt Ltd 260,Retail,Email,2024-08-05,Converted,91
+L0261,Persistent Systems 261,Finance,Cold Call,2024-03-13,Proposal,73
+L0262,Airtel Digital 262,Retail,Website,2024-06-07,Proposal,64
+L0263,Wipro Systems 263,Manufacturing,Email,2024-04-02,Proposal,79
+L0264,Persistent Systems 264,Manufacturing,Email,2024-01-26,Qualified,60
+L0265,Mindtree 265,Retail,Referral,2024-03-17,Converted,69
+L0266,HDFC Analytics 266,Manufacturing,Cold Call,2024-04-02,Proposal,80
+L0267,Reliance Digital 267,Healthcare,Google Ads,2024-12-02,Proposal,57
+L0268,Wipro Systems 268,Education,Cold Call,2024-11-14,Converted,78
+L0269,L&T Infotech 269,IT,Social Media,2024-06-17,Proposal,72
+L0270,Wipro Systems 270,Education,Social Media,2024-09-02,Qualified,30
+L0271,Wipro Systems 271,IT,Cold Call,2024-03-10,New,89
+L0272,Tech Mahindra 272,Retail,Social Media,2024-05-01,Converted,45
+L0273,Airtel Digital 273,Finance,Social Media,2024-03-03,Converted,80
+L0274,Reliance Digital 274,IT,Google Ads,2024-09-14,Lost,42
+L0275,HCL Technologies 275,Healthcare,Social Media,2024-11-07,New,65
+L0276,Paytm Services 276,Manufacturing,Events,2024-03-09,Lost,26
+L0277,Infosys Ltd 277,Finance,Events,2024-09-28,Qualified,100
+L0278,HDFC Analytics 278,Manufacturing,Referral,2024-10-12,Proposal,45
+L0279,Ola Electric 279,Finance,Social Media,2024-07-14,Proposal,59
+L0280,Axis Solutions 280,Healthcare,Email,2024-02-08,Proposal,90
+L0281,Swiggy Instamart 281,Healthcare,LinkedIn Ads,2024-04-11,New,87
+L0282,Flipkart India 282,Manufacturing,Events,2024-07-05,New,83
+L0283,Byju's 283,Finance,Events,2024-09-13,Qualified,95
+L0284,Tech Mahindra 284,Finance,Google Ads,2024-10-15,Proposal,89
+L0285,ICICI Tech 285,Education,Website,2024-11-24,Converted,65
+L0286,Tech Mahindra 286,Finance,Google Ads,2024-05-25,Proposal,35
+L0287,Byju's 287,IT,Referral,2024-01-06,Lost,52
+L0288,ICICI Tech 288,Healthcare,Google Ads,2024-08-08,Qualified,53
+L0289,Tata Solutions 289,Finance,Referral,2024-06-14,Converted,40
+L0290,Tata Solutions 290,Education,Website,2024-01-19,Converted,30
+L0291,Flipkart India 291,IT,Email,2024-12-21,Lost,35
+L0292,Persistent Systems 292,Manufacturing,Social Media,2024-11-07,Converted,24
+L0293,ICICI Tech 293,Retail,Events,2024-03-21,Proposal,28
+L0294,Airtel Digital 294,Healthcare,Social Media,2024-03-20,Lost,83
+L0295,Tech Mahindra 295,Education,Social Media,2024-01-17,Proposal,87
+L0296,Ola Electric 296,Education,Cold Call,2024-12-14,Qualified,95
+L0297,HCL Technologies 297,Manufacturing,Events,2024-06-26,Lost,25
+L0298,Mindtree 298,IT,Social Media,2024-11-06,Converted,53
+L0299,Swiggy Instamart 299,Education,Email,2024-10-21,Qualified,27
+L0300,Zomato Pvt Ltd 300,Healthcare,Referral,2024-06-01,New,72
+L0301,Tata Solutions 301,Education,Website,2024-08-29,Lost,85
+L0302,Udaan Pvt Ltd 302,Education,Referral,2024-09-03,Lost,90
+L0303,Udaan Pvt Ltd 303,Finance,Referral,2024-04-12,Converted,79
+L0304,Swiggy Instamart 304,Education,LinkedIn Ads,2024-08-27,Converted,94
+L0305,Ola Electric 305,Education,Email,2024-01-31,Proposal,85
+L0306,Wipro Systems 306,Manufacturing,Social Media,2024-11-30,Qualified,23
+L0307,ICICI Tech 307,Retail,Social Media,2024-06-22,Lost,70
+L0308,Udaan Pvt Ltd 308,Retail,LinkedIn Ads,2024-07-02,Converted,72
+L0309,Reliance Digital 309,Education,Email,2024-11-22,Converted,47
+L0310,Reliance Digital 310,Manufacturing,Email,2024-05-18,Qualified,61
+L0311,Ola Electric 311,Finance,Referral,2024-02-04,Proposal,60
+L0312,Paytm Services 312,Education,Google Ads,2024-04-09,Qualified,25
+L0313,Airtel Digital 313,Retail,Referral,2024-01-03,New,21
+L0314,Tech Mahindra 314,Manufacturing,Social Media,2024-07-08,Qualified,54
+L0315,Flipkart India 315,Retail,Email,2024-07-21,Qualified,89
+L0316,Ola Electric 316,Education,LinkedIn Ads,2024-01-19,Converted,64
+L0317,Ola Electric 317,Retail,Social Media,2024-08-21,Converted,76
+L0318,Tech Mahindra 318,Retail,LinkedIn Ads,2024-04-27,Lost,53
+L0319,Tech Mahindra 319,Finance,Events,2024-08-07,New,56
+L0320,Reliance Digital 320,IT,Referral,2024-02-17,Converted,22
+L0321,HDFC Analytics 321,Healthcare,Website,2024-10-18,New,49
+L0322,Axis Solutions 322,Healthcare,Cold Call,2024-07-18,Qualified,31
+L0323,Udaan Pvt Ltd 323,IT,Email,2024-01-19,Lost,90
+L0324,HCL Technologies 324,Manufacturing,Google Ads,2024-08-28,Lost,79
+L0325,Paytm Services 325,Manufacturing,Events,2024-11-15,Qualified,80
+L0326,Mindtree 326,Education,LinkedIn Ads,2024-07-08,Converted,68
+L0327,ICICI Tech 327,Healthcare,Email,2024-02-21,New,94
+L0328,Mindtree 328,Healthcare,Cold Call,2024-01-30,Converted,60
+L0329,Byju's 329,Healthcare,Events,2024-12-28,Converted,72
+L0330,HDFC Analytics 330,Finance,Referral,2024-08-04,Lost,85
+L0331,Infosys Ltd 331,Finance,Social Media,2024-01-05,Proposal,75
+L0332,Swiggy Instamart 332,Healthcare,Email,2024-03-11,Proposal,76
+L0333,Tech Mahindra 333,IT,Google Ads,2024-06-05,Lost,22
+L0334,Ola Electric 334,Healthcare,Cold Call,2024-03-24,Proposal,89
+L0335,Wipro Systems 335,Education,Referral,2024-04-26,New,55
+L0336,Tata Solutions 336,Manufacturing,Events,2024-10-03,Qualified,48
+L0337,Persistent Systems 337,IT,LinkedIn Ads,2024-05-07,Qualified,70
+L0338,Persistent Systems 338,Finance,Email,2024-09-26,Converted,98
+L0339,Zomato Pvt Ltd 339,Retail,Email,2024-01-25,Lost,38
+L0340,Axis Solutions 340,Education,Cold Call,2024-07-09,Proposal,77
+L0341,L&T Infotech 341,Retail,Email,2024-08-11,Qualified,35
+L0342,Tata Solutions 342,Healthcare,Events,2024-11-13,Lost,38
+L0343,Mindtree 343,Retail,Google Ads,2024-01-19,Converted,83
+L0344,Mindtree 344,Education,Events,2024-07-30,Converted,51
+L0345,Airtel Digital 345,Education,Events,2024-11-17,Lost,61
+L0346,HDFC Analytics 346,Manufacturing,Website,2024-06-22,Proposal,27
+L0347,Ola Electric 347,Finance,Cold Call,2024-06-21,Converted,85
+L0348,Flipkart India 348,IT,LinkedIn Ads,2024-11-19,Converted,52
+L0349,Mindtree 349,Manufacturing,Website,2024-09-15,Converted,85
+L0350,ICICI Tech 350,IT,Events,2024-09-24,Lost,70
+L0351,Mindtree 351,IT,LinkedIn Ads,2024-08-08,Converted,75
+L0352,Wipro Systems 352,Retail,Referral,2024-08-26,Qualified,93
+L0353,ICICI Tech 353,IT,Events,2024-09-29,Qualified,97
+L0354,Paytm Services 354,Finance,Referral,2024-01-08,Converted,87
+L0355,Persistent Systems 355,Finance,Referral,2024-06-17,New,40
+L0356,Byju's 356,Manufacturing,Website,2024-03-11,Qualified,40
+L0357,HCL Technologies 357,Retail,Referral,2024-03-17,Proposal,34
+L0358,Ola Electric 358,Finance,Social Media,2024-03-21,Qualified,85
+L0359,Tech Mahindra 359,IT,Website,2024-08-27,Lost,51
+L0360,Axis Solutions 360,IT,Events,2024-11-27,Qualified,25
+L0361,Flipkart India 361,Finance,Website,2024-07-25,Converted,64
+L0362,L&T Infotech 362,Manufacturing,Cold Call,2024-02-10,Converted,52
+L0363,ICICI Tech 363,Healthcare,Email,2024-12-18,Qualified,81
+L0364,ICICI Tech 364,IT,Website,2024-02-24,Qualified,40
+L0365,Airtel Digital 365,IT,Website,2024-06-06,New,29
+L0366,L&T Infotech 366,Healthcare,Cold Call,2024-03-21,Proposal,70
+L0367,Swiggy Instamart 367,IT,Referral,2024-04-18,Qualified,98
+L0368,Reliance Digital 368,IT,Google Ads,2024-07-30,New,85
+L0369,HDFC Analytics 369,Retail,Google Ads,2024-11-23,Proposal,79
+L0370,Airtel Digital 370,Healthcare,Website,2024-11-18,Lost,76
+L0371,Persistent Systems 371,Education,Email,2024-10-13,New,52
+L0372,HDFC Analytics 372,Healthcare,Events,2024-09-29,New,61
+L0373,Ola Electric 373,Education,Website,2024-06-18,Lost,79
+L0374,Swiggy Instamart 374,Finance,Website,2024-02-02,New,79
+L0375,Axis Solutions 375,Retail,Website,2024-08-24,Converted,56
+L0376,Byju's 376,Manufacturing,Cold Call,2024-01-09,Lost,26
+L0377,Airtel Digital 377,Education,Events,2024-09-26,New,33
+L0378,ICICI Tech 378,Finance,Cold Call,2024-08-05,Lost,53
+L0379,Tata Solutions 379,Finance,Google Ads,2024-11-16,Converted,41
+L0380,Udaan Pvt Ltd 380,Finance,LinkedIn Ads,2024-12-12,Converted,84
+L0381,Paytm Services 381,Education,Email,2024-07-31,Lost,87
+L0382,Wipro Systems 382,Healthcare,Google Ads,2024-08-08,Qualified,83
+L0383,Mindtree 383,Education,Website,2024-11-25,Proposal,74
+L0384,Udaan Pvt Ltd 384,Finance,Referral,2024-05-01,Qualified,34
+L0385,Ola Electric 385,Education,Social Media,2024-09-20,Converted,85
+L0386,Mindtree 386,Education,LinkedIn Ads,2024-07-23,Proposal,27
+L0387,HCL Technologies 387,Healthcare,Email,2024-11-14,Converted,99
+L0388,Swiggy Instamart 388,IT,Referral,2024-12-30,Proposal,48
+L0389,Mindtree 389,IT,Cold Call,2024-08-21,New,29
+L0390,HDFC Analytics 390,Finance,Email,2024-05-04,Qualified,59
+L0391,Swiggy Instamart 391,Healthcare,Email,2024-01-16,New,96
+L0392,HDFC Analytics 392,Education,Email,2024-08-03,Proposal,69
+L0393,Persistent Systems 393,Retail,Google Ads,2024-05-15,New,94
+L0394,Reliance Digital 394,Finance,Website,2024-11-09,Proposal,46
+L0395,Reliance Digital 395,Manufacturing,LinkedIn Ads,2024-07-03,Converted,71
+L0396,HDFC Analytics 396,Finance,Website,2024-07-12,New,25
+L0397,Flipkart India 397,IT,Events,2024-01-26,Proposal,97
+L0398,Udaan Pvt Ltd 398,Healthcare,Google Ads,2024-12-26,Lost,97
+L0399,L&T Infotech 399,Education,Website,2024-12-24,New,100
+L0400,HCL Technologies 400,IT,Google Ads,2024-06-10,Qualified,92
+L0401,Airtel Digital 401,Retail,Google Ads,2024-07-01,Qualified,37
+L0402,Reliance Digital 402,Healthcare,Cold Call,2024-10-15,New,64
+L0403,Byju's 403,Manufacturing,Email,2024-06-24,Converted,40
+L0404,HCL Technologies 404,Education,Google Ads,2024-02-18,Qualified,100
+L0405,Swiggy Instamart 405,Education,Cold Call,2024-04-21,New,69
+L0406,Tech Mahindra 406,Retail,Referral,2024-07-25,Lost,72
+L0407,HCL Technologies 407,IT,Cold Call,2024-09-17,Lost,82
+L0408,Swiggy Instamart 408,Finance,Google Ads,2024-09-28,Converted,71
+L0409,Axis Solutions 409,IT,LinkedIn Ads,2024-06-07,Lost,95
+L0410,Flipkart India 410,Retail,Referral,2024-11-18,Converted,41
+L0411,HCL Technologies 411,Healthcare,LinkedIn Ads,2024-03-07,Converted,25
+L0412,Swiggy Instamart 412,Manufacturing,Social Media,2024-08-13,Qualified,54
+L0413,L&T Infotech 413,Healthcare,Website,2024-12-31,Lost,66
+L0414,Byju's 414,Retail,Social Media,2024-02-05,Lost,44
+L0415,Axis Solutions 415,Healthcare,Google Ads,2024-07-23,Proposal,77
+L0416,Swiggy Instamart 416,Finance,Social Media,2024-04-14,Lost,84
+L0417,Wipro Systems 417,IT,Referral,2024-01-22,Proposal,50
+L0418,Zomato Pvt Ltd 418,Finance,LinkedIn Ads,2024-09-30,Converted,96
+L0419,Swiggy Instamart 419,Retail,Social Media,2024-04-03,Converted,34
+L0420,Mindtree 420,IT,Email,2024-10-02,New,28
+L0421,Persistent Systems 421,Manufacturing,Events,2024-07-20,Lost,47
+L0422,Flipkart India 422,Education,Referral,2024-01-22,Proposal,32
+L0423,Flipkart India 423,Manufacturing,Events,2024-06-05,Qualified,46
+L0424,Paytm Services 424,Healthcare,Referral,2024-12-16,Qualified,61
+L0425,Flipkart India 425,Healthcare,Google Ads,2024-09-03,Converted,80
+L0426,HCL Technologies 426,Healthcare,Referral,2024-10-31,Converted,70
+L0427,Swiggy Instamart 427,Education,Cold Call,2024-07-01,New,72
+L0428,Tech Mahindra 428,Healthcare,Website,2024-09-08,New,86
+L0429,Swiggy Instamart 429,Finance,Cold Call,2024-10-03,Converted,64
+L0430,Persistent Systems 430,IT,Referral,2024-09-30,Qualified,66
+L0431,Byju's 431,Healthcare,Events,2024-10-01,New,20
+L0432,Paytm Services 432,Education,Website,2024-05-27,Converted,50
+L0433,L&T Infotech 433,Manufacturing,Email,2024-12-16,Qualified,39
+L0434,HCL Technologies 434,Education,LinkedIn Ads,2024-04-25,Converted,39
+L0435,ICICI Tech 435,Healthcare,Social Media,2024-06-20,Converted,53
+L0436,HDFC Analytics 436,Finance,Google Ads,2024-10-01,New,33
+L0437,HDFC Analytics 437,Finance,Events,2024-03-23,Proposal,49
+L0438,Udaan Pvt Ltd 438,Healthcare,Google Ads,2024-06-12,Proposal,53
+L0439,Flipkart India 439,Retail,Email,2024-01-03,New,33
+L0440,Zomato Pvt Ltd 440,Healthcare,Social Media,2024-01-13,Lost,44
+L0441,Zomato Pvt Ltd 441,Manufacturing,Website,2024-09-27,Qualified,55
+L0442,Zomato Pvt Ltd 442,Manufacturing,Events,2024-12-28,New,79
+L0443,L&T Infotech 443,Manufacturing,Website,2024-01-30,New,52
+L0444,Wipro Systems 444,Manufacturing,Referral,2024-12-18,Lost,69
+L0445,Byju's 445,Manufacturing,Events,2024-11-12,Lost,53
+L0446,Udaan Pvt Ltd 446,Retail,Cold Call,2024-01-01,Qualified,80
+L0447,HDFC Analytics 447,Retail,Website,2024-01-24,Qualified,76
+L0448,HDFC Analytics 448,IT,Social Media,2024-04-19,New,51
+L0449,Mindtree 449,Healthcare,Events,2024-03-17,Lost,32
+L0450,Axis Solutions 450,Finance,Cold Call,2024-05-06,Qualified,99
+L0451,Airtel Digital 451,Manufacturing,Email,2024-07-04,Qualified,27
+L0452,Wipro Systems 452,Education,Website,2024-12-29,Proposal,63
+L0453,Swiggy Instamart 453,Education,Email,2024-06-22,Proposal,70
+L0454,Zomato Pvt Ltd 454,Education,Events,2024-03-24,New,37
+L0455,Zomato Pvt Ltd 455,IT,Social Media,2024-07-01,Proposal,35
+L0456,Tech Mahindra 456,Manufacturing,Google Ads,2024-04-25,Lost,80
+L0457,Swiggy Instamart 457,Finance,Email,2024-05-09,New,41
+L0458,Udaan Pvt Ltd 458,Finance,Google Ads,2024-08-07,Qualified,99
+L0459,L&T Infotech 459,Education,Website,2024-01-21,Lost,75
+L0460,Infosys Ltd 460,Finance,Email,2024-06-05,Qualified,27
+L0461,HDFC Analytics 461,IT,Events,2024-03-31,Lost,63
+L0462,Airtel Digital 462,Education,LinkedIn Ads,2024-07-29,New,76
+L0463,Airtel Digital 463,IT,Events,2024-11-17,Proposal,33
+L0464,Byju's 464,Education,LinkedIn Ads,2024-01-11,Proposal,68
+L0465,Airtel Digital 465,Education,Google Ads,2024-10-08,Converted,53
+L0466,Wipro Systems 466,Education,Social Media,2024-08-29,Qualified,52
+L0467,L&T Infotech 467,Education,Google Ads,2024-06-01,Lost,73
+L0468,Swiggy Instamart 468,Finance,Cold Call,2024-07-05,Qualified,25
+L0469,ICICI Tech 469,IT,Cold Call,2024-02-05,Lost,92
+L0470,Byju's 470,Retail,Social Media,2024-09-06,Lost,48
+L0471,HCL Technologies 471,Education,Referral,2024-06-20,Proposal,89
+L0472,Ola Electric 472,Manufacturing,Email,2024-02-07,Proposal,39
+L0473,Ola Electric 473,Education,Referral,2024-06-23,New,100
+L0474,Infosys Ltd 474,Manufacturing,Social Media,2024-01-02,Qualified,46
+L0475,Axis Solutions 475,IT,Events,2024-01-15,New,95
+L0476,Paytm Services 476,Retail,Social Media,2024-07-01,New,86
+L0477,Paytm Services 477,Manufacturing,Email,2024-09-28,Lost,61
+L0478,ICICI Tech 478,IT,Referral,2024-06-05,Qualified,78
+L0479,Udaan Pvt Ltd 479,Education,Email,2024-07-15,Converted,60
+L0480,Ola Electric 480,Finance,LinkedIn Ads,2024-03-19,Qualified,28
+L0481,HCL Technologies 481,Retail,Google Ads,2024-10-10,Lost,67
+L0482,Infosys Ltd 482,Retail,Events,2024-10-06,Converted,66
+L0483,Persistent Systems 483,Finance,Events,2024-06-26,Lost,87
+L0484,Infosys Ltd 484,Retail,Referral,2024-07-11,Lost,28
+L0485,HDFC Analytics 485,Education,Google Ads,2024-08-29,New,49
+L0486,HDFC Analytics 486,Finance,LinkedIn Ads,2024-01-16,Converted,37
+L0487,Infosys Ltd 487,IT,Website,2024-05-02,Qualified,36
+L0488,Ola Electric 488,Finance,Social Media,2024-04-19,Converted,25
+L0489,Airtel Digital 489,Manufacturing,LinkedIn Ads,2024-01-29,New,29
+L0490,Infosys Ltd 490,Finance,Social Media,2024-03-30,Lost,89
+L0491,HCL Technologies 491,Healthcare,Events,2024-11-21,Qualified,40
+L0492,ICICI Tech 492,Manufacturing,Social Media,2024-12-06,Lost,61
+L0493,HCL Technologies 493,IT,Events,2024-02-28,Proposal,93
+L0494,Airtel Digital 494,Retail,Cold Call,2024-10-06,Qualified,73
+L0495,Ola Electric 495,Education,Cold Call,2024-03-25,New,93
+L0496,Reliance Digital 496,Finance,Cold Call,2024-01-25,Proposal,58
+L0497,Axis Solutions 497,Finance,LinkedIn Ads,2024-04-19,New,99
+L0498,Paytm Services 498,Finance,Social Media,2024-12-30,Proposal,64
+L0499,Tata Solutions 499,Education,Website,2024-01-25,Proposal,40
+L0500,Udaan Pvt Ltd 500,IT,Social Media,2024-02-05,Converted,79
