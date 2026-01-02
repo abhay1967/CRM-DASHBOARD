@@ -32,4 +32,54 @@ It is designed for **sales teams, business analysts, and decision-makers** to qu
 ---
 
 ## 📂 Project Structure
+CRM-DASHBOARD/
+├── abhaykadashboard.pbix # Power BI dashboard file
+├── activities.csv # CRM activities data
+├── leads.csv # Leads dataset
+├── deals.csv # Deals dataset
+├── sources.csv # Lead sources data
+├── crm_queries.sql # SQL queries for KPI analysis
+├── data.py # Optional data preprocessing script
+├── screenshots/ # Dashboard & SQL query screenshots
+└── README.md # Project documentation
+
+---
+
+## 📊 Dashboard KPIs & Visuals
+
+### 🔹 Key Metrics
+- **Total Leads**
+- **Conversion Rate**
+- **Average Deal Size**
+- **Average Lead Age**
+
+### 🔹 Visualizations
+- Leads by Industry (Bar Chart)
+- Lead Source Distribution (Donut Chart)
+- Lead Status Breakdown
+- High-Value Leads Table
+- Interactive Filters (Industry & Status)
+
+---
+
+## 🧮 SQL Analysis Highlights
+
+Key SQL queries include:
+
+- **Top 100 High-Value Leads**
+- **Lead Aging (KPI)**
+- **Conversion Rate Calculation**
+- **Industry & Status-wise Aggregation**
+
+Example:
+```sql
+SELECT 
+  l.lead_id,
+  l.lead_name,
+  l.industry,
+  d.deal_size
+FROM leads l
+JOIN deals d ON l.lead_id = d.lead_id
+ORDER BY d.deal_size DESC
+LIMIT 100;
 
