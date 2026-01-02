@@ -32,16 +32,19 @@ It is designed for **sales teams, business analysts, and decision-makers** to qu
 ---
 
 ## 📂 Project Structure
+
+```text
 CRM-DASHBOARD/
-├── abhaykadashboard.pbix # Power BI dashboard file
-├── activities.csv # CRM activities data
-├── leads.csv # Leads dataset
-├── deals.csv # Deals dataset
-├── sources.csv # Lead sources data
-├── crm_queries.sql # SQL queries for KPI analysis
-├── data.py # Optional data preprocessing script
-├── screenshots/ # Dashboard & SQL query screenshots
-└── README.md # Project documentation
+├── abhaykadashboard.pbix      # Power BI dashboard file
+├── activities.csv             # CRM activities data
+├── leads.csv                  # Leads dataset
+├── deals.csv                  # Deals dataset
+├── sources.csv                # Lead sources data
+├── crm_queries.sql             # SQL queries for KPI analysis
+├── data.py                    # Optional data preprocessing script
+├── screenshots/               # Dashboard & SQL query screenshots
+└── README.md                  # Project documentation
+```
 
 ---
 
